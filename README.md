@@ -1,0 +1,1 @@
+Project that allows you to add unmanaged dependencies to Click-once master application
